@@ -145,3 +145,4 @@ C:\Users\53450061801\Desktop\ProjetoVHBurguer\VHBurguer\bin\Debug\net8.0\runtime
 C:\Users\53450061801\Desktop\ProjetoVHBurguer\VHBurguer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\53450061801\Desktop\ProjetoVHBurguer\VHBurguer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\53450061801\Desktop\ProjetoVHBurguer\VHBurguer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\53450061801\Desktop\ProjetoVHBurguer\VHBurguer\obj\Debug\net8.0\VHBurguer.sourcelink.json

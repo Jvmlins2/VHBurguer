@@ -1,3 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using VHBurguer.Applications.Services;
+using VHBurguer.Contexts;
+using VHBurguer.Interfaces;
+using VHBurguer.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,6 +13,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddDbContext<VH_BurguerContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<UsuarioService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
