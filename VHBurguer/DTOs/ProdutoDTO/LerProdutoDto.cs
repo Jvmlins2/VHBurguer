@@ -24,7 +24,7 @@ namespace VHBurguer.DTOs.ProdutoDTO
 
         public string UsuarioNome { get; set; } = null!;
 
-        public string Email { get; set; } = null!;
+        public string UsuarioEmail { get; set; } = null!;
 
         public byte[] Senha { get; set; } = null!;
 

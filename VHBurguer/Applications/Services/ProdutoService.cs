@@ -23,7 +23,7 @@ namespace VHBurguer.Applications.Services
             return produtosDto;
         }
 
-        public LerProdutoDto ObterPorID(int id)
+        public LerProdutoDto ObterPorId(int id)
         {
             Produto produto = _repository.ObterPorId(id);
             if (produto == null)
@@ -85,9 +85,9 @@ namespace VHBurguer.Applications.Services
 
             Produto produto = new Produto
             {
-                Nome = produto.Nome,
-                Preco = produto.Preco,
-                Descricao = produto.Descricao,
+                Nome = produtoDto.Nome,
+                Preco = produtoDto.Preco,
+                Descricao = produtoDto.Descricao,
                 Imagem = ImagemParaBytes.ConverterImagem(produtoDto.Imagem),
                 StatusProduto = true,
                 UsuarioID = usuarioId

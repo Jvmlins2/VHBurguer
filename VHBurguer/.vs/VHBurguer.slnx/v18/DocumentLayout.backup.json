@@ -3,24 +3,95 @@
   "WorkspaceRootPath": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\dtos\\produtodto\\criarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:dtos\\produtodto\\criarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\applications\\conversoes\\produtoparadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:applications\\conversoes\\produtoparadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\53450061801\\AppData\\Local\\SourceServer\\d36264f9bbc9a74e7cd7709e6253a44e389a026921c8cb207a6b26777e592880\\VHBurguer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\applications\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:applications\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\dtos\\autenticacaodto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:dtos\\autenticacaodto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\dtos\\produtodto\\lerprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:dtos\\produtodto\\lerprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\applications\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:applications\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\applications\\services\\autenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:applications\\services\\autenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\applications\\auntenticacao\\geradortokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:applications\\auntenticacao\\geradortokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\dtos\\autenticacaodto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:dtos\\autenticacaodto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\domains\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:domains\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\contexts\\vh_burguercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:contexts\\vh_burguercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\domains\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:domains\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\domains\\produtopromocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:domains\\produtopromocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\domains\\log_alteracaoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:domains\\log_alteracaoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\domains\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:domains\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\dtos\\usuariodto\\lerusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,36 +102,28 @@
       "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:dtos\\usuariodto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\dtos\\produtodto\\atualizarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:dtos\\produtodto\\atualizarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\applications\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:applications\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\domains\\produtopromocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:domains\\produtopromocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\domains\\promocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:domains\\promocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\applications\\conversoes\\imagemparabytes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:applications\\conversoes\\imagemparabytes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\dtos\\produtodto\\criarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:dtos\\produtodto\\criarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|c:\\users\\53450061801\\desktop\\projetovhburguer\\vhburguer\\applications\\regras\\horarioalteracaoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA88472D-677F-FB96-0032-83191C6350EA}|VHBurguer.csproj|solutionrelative:applications\\regras\\horarioalteracaoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,162 +138,158 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CriarProdutoDto.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\ProdutoDTO\\CriarProdutoDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\ProdutoDTO\\CriarProdutoDto.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\ProdutoDTO\\CriarProdutoDto.cs",
-              "RelativeToolTip": "DTOs\\ProdutoDTO\\CriarProdutoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Title": "ProdutoParaDto.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Conversoes\\ProdutoParaDto.cs",
+              "RelativeDocumentMoniker": "Applications\\Conversoes\\ProdutoParaDto.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Conversoes\\ProdutoParaDto.cs",
+              "RelativeToolTip": "Applications\\Conversoes\\ProdutoParaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T13:36:47.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Usuario.cs",
-              "RelativeDocumentMoniker": "Domains\\Usuario.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Usuario.cs",
-              "RelativeToolTip": "Domains\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T13:32:28.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Produto.cs",
-              "RelativeDocumentMoniker": "Domains\\Produto.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Produto.cs",
-              "RelativeToolTip": "Domains\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T13:29:22.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LerProdutoDto.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\ProdutoDTO\\LerProdutoDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\ProdutoDTO\\LerProdutoDto.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\ProdutoDTO\\LerProdutoDto.cs",
-              "RelativeToolTip": "DTOs\\ProdutoDTO\\LerProdutoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T13:28:23.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CriarUsuarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\UsuarioDTO\\CriarUsuarioDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\UsuarioDTO\\CriarUsuarioDto.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\UsuarioDTO\\CriarUsuarioDto.cs",
-              "RelativeToolTip": "DTOs\\UsuarioDTO\\CriarUsuarioDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T13:21:41.598Z",
+              "WhenOpened": "2026-02-20T12:21:53.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LerUsuarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\UsuarioDTO\\LerUsuarioDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\UsuarioDTO\\LerUsuarioDto.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\UsuarioDTO\\LerUsuarioDto.cs",
-              "RelativeToolTip": "DTOs\\UsuarioDTO\\LerUsuarioDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "Applications\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "Applications\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T13:21:36.785Z",
+              "WhenOpened": "2026-02-20T12:19:49.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProdutoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Repositories\\ProdutoRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProdutoRepository.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Repositories\\ProdutoRepository.cs",
-              "RelativeToolTip": "Repositories\\ProdutoRepository.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAuwHEAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\AppData\\Local\\SourceServer\\d36264f9bbc9a74e7cd7709e6253a44e389a026921c8cb207a6b26777e592880\\VHBurguer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\d36264f9bbc9a74e7cd7709e6253a44e389a026921c8cb207a6b26777e592880\\VHBurguer\\Program.cs",
+              "ToolTip": "C:\\Users\\53450061801\\AppData\\Local\\SourceServer\\d36264f9bbc9a74e7cd7709e6253a44e389a026921c8cb207a6b26777e592880\\VHBurguer\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\d36264f9bbc9a74e7cd7709e6253a44e389a026921c8cb207a6b26777e592880\\VHBurguer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T11:37:41.101Z",
+              "WhenOpened": "2026-02-20T12:10:09.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IProdutoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Interfaces\\IProdutoRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IProdutoRepository.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Interfaces\\IProdutoRepository.cs",
-              "RelativeToolTip": "Interfaces\\IProdutoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "GeradorTokenJwt.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Auntenticacao\\GeradorTokenJwt.cs",
+              "RelativeDocumentMoniker": "Applications\\Auntenticacao\\GeradorTokenJwt.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Auntenticacao\\GeradorTokenJwt.cs",
+              "RelativeToolTip": "Applications\\Auntenticacao\\GeradorTokenJwt.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T11:28:16.776Z",
+              "WhenOpened": "2026-02-19T11:38:14.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\AutenticacaoDTO\\TokenDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AutenticacaoDTO\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\AutenticacaoDTO\\TokenDto.cs",
+              "RelativeToolTip": "DTOs\\AutenticacaoDTO\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:27:51.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T13:14:41.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADgvzMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T12:00:03.037Z",
+              "WhenOpened": "2026-02-18T13:25:41.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAcwCMAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Applications\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Applications\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwJcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T11:49:58.575Z",
+              "WhenOpened": "2026-02-11T13:23:45.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LerProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\ProdutoDTO\\LerProdutoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProdutoDTO\\LerProdutoDto.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\ProdutoDTO\\LerProdutoDto.cs",
+              "RelativeToolTip": "DTOs\\ProdutoDTO\\LerProdutoDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T13:28:23.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AutenticacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Services\\AutenticacaoService.cs",
+              "RelativeDocumentMoniker": "Applications\\Services\\AutenticacaoService.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Services\\AutenticacaoService.cs",
+              "RelativeToolTip": "Applications\\Services\\AutenticacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T11:15:27.612Z",
+              "WhenOpened": "2026-02-19T12:19:29.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-19T12:13:18.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\AutenticacaoDTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AutenticacaoDTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\AutenticacaoDTO\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\AutenticacaoDTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:25:04.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ProdutoPromocao.cs",
               "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\ProdutoPromocao.cs",
               "RelativeDocumentMoniker": "Domains\\ProdutoPromocao.cs",
@@ -238,25 +297,119 @@
               "RelativeToolTip": "Domains\\ProdutoPromocao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T11:14:10.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T11:14:10.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Applications\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "Applications\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAqwJcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "Log_AlteracaoProduto.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Log_AlteracaoProduto.cs",
+              "RelativeDocumentMoniker": "Domains\\Log_AlteracaoProduto.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Log_AlteracaoProduto.cs",
+              "RelativeToolTip": "Domains\\Log_AlteracaoProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T13:23:45.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T13:49:40.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domains\\Usuario.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Usuario.cs",
+              "RelativeToolTip": "Domains\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T13:32:28.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Produto.cs",
+              "RelativeDocumentMoniker": "Domains\\Produto.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Produto.cs",
+              "RelativeToolTip": "Domains\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T13:29:22.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Categoria.cs",
+              "RelativeDocumentMoniker": "Domains\\Categoria.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Categoria.cs",
+              "RelativeToolTip": "Domains\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:49:38.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VH_BurguerContext.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Contexts\\VH_BurguerContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\VH_BurguerContext.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Contexts\\VH_BurguerContext.cs",
+              "RelativeToolTip": "Contexts\\VH_BurguerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:49:29.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwHEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:37:41.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwCMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:49:58.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Interfaces\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Interfaces\\IProdutoRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:28:16.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:15:27.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "DomainException.cs",
               "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "Exceptions\\DomainException.cs",
@@ -264,8 +417,103 @@
               "RelativeToolTip": "Exceptions\\DomainException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T13:18:07.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T13:18:07.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LerUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\UsuarioDTO\\LerUsuarioDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UsuarioDTO\\LerUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\UsuarioDTO\\LerUsuarioDto.cs",
+              "RelativeToolTip": "DTOs\\UsuarioDTO\\LerUsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T13:21:36.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CriarUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\UsuarioDTO\\CriarUsuarioDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UsuarioDTO\\CriarUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\UsuarioDTO\\CriarUsuarioDto.cs",
+              "RelativeToolTip": "DTOs\\UsuarioDTO\\CriarUsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T13:21:41.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AtualizarProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\ProdutoDTO\\AtualizarProdutoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProdutoDTO\\AtualizarProdutoDto.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\ProdutoDTO\\AtualizarProdutoDto.cs",
+              "RelativeToolTip": "DTOs\\ProdutoDTO\\AtualizarProdutoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:24:13.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Promocao.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Promocao.cs",
+              "RelativeDocumentMoniker": "Domains\\Promocao.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Domains\\Promocao.cs",
+              "RelativeToolTip": "Domains\\Promocao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:49:43.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CriarProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\ProdutoDTO\\CriarProdutoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProdutoDTO\\CriarProdutoDto.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\DTOs\\ProdutoDTO\\CriarProdutoDto.cs",
+              "RelativeToolTip": "DTOs\\ProdutoDTO\\CriarProdutoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T13:36:47.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:00:03.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ImagemParaBytes.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Conversoes\\ImagemParaBytes.cs",
+              "RelativeDocumentMoniker": "Applications\\Conversoes\\ImagemParaBytes.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Conversoes\\ImagemParaBytes.cs",
+              "RelativeToolTip": "Applications\\Conversoes\\ImagemParaBytes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:36:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HorarioAlteracaoProduto.cs",
+              "DocumentMoniker": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Regras\\HorarioAlteracaoProduto.cs",
+              "RelativeDocumentMoniker": "Applications\\Regras\\HorarioAlteracaoProduto.cs",
+              "ToolTip": "C:\\Users\\53450061801\\Desktop\\ProjetoVHBurguer\\VHBurguer\\Applications\\Regras\\HorarioAlteracaoProduto.cs",
+              "RelativeToolTip": "Applications\\Regras\\HorarioAlteracaoProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:39:12.859Z"
             }
           ]
         }
